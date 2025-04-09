@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "Rare 1954 Leica M3 35mm rangefinder camera in excellent working condition with original leather case. One of the most sought-after vintage cameras by collectors.",
+      "currentBidPrice": "$2,850",
+      "timeLeft": "2 days 6 hours",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/ynGkNmy4/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "Authentic 1965 Gibson SG Standard in cherry red with minor play wear. All original components including PAF humbuckers. Comes with original hard case.",
+      "currentBidPrice": "$12,500",
+      "timeLeft": "1 day 3 hours",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/rf69rsHn/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "First-generation Macintosh 128K computer in working condition with original keyboard, mouse, and documentation. Serial number matches all components.",
+      "currentBidPrice": "$3,200",
+      "timeLeft": "3 days 12 hours",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/1fbFgz1J/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Classic Rolex Submariner stainless steel watch, reference 16610 from 2003. Includes original box, papers, and recent service documentation.",
+      "currentBidPrice": "$9,500",
+      "timeLeft": "5 hours 30 minutes",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co.com/W4gZqjdG/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Extremely rare 1925 first edition, first printing with original dust jacket in good condition. One of only 20,000 first prints.",
+      "currentBidPrice": "$18,200",
+      "timeLeft": "1 week",
+      "bidsCount": 5,
+      "image": "https://i.ibb.co.com/8LSkM3DK/Bid6-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Banksy Original Screen Print",
+      "description": "Authenticated Banksy 'Girl with Balloon' screen print from 2004. Number 32/500. Includes Pest Control certificate of authenticity.",
+      "currentBidPrice": "$75,000",
+      "timeLeft": "2 days",
+      "bidsCount": 7,
+      "image": "https://i.ibb.co.com/TMnfMYgj/Bid7-min.png"
+    }
+  ]
